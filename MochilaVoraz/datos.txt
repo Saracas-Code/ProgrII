@@ -1,0 +1,8 @@
+MiniDiego 67.5 10
+MiniMateo 23.23 12
+MiniNoa 77.9 3
+MiniNico 57.12 35
+MiniLaura 63.01 90
+MiniMencia 30.3 100
+MiniDenis 78.1 24
+Lapiz 109.4 32
