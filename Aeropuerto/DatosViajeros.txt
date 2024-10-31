@@ -1,0 +1,17 @@
+A48395201,Bodenlle Villarino,Mateo,TE8493
+A94500013,Cristóbal Andaluz,Diego,IF9455
+A88829340,Amengual González,Mencía,RI9340
+A22133905,Mesejo Iglesias,Noa,SA7748
+A80000011,Fernández García,Manuel,IB8009
+A83945250,Álvarez Pérez,María,VU6788
+A77235982,Carreiro Pérez,Manuel Angel,IB7777
+A00123589,Casal González,María Dolores,VU6543
+A11122859,Juárez Aragón,Alberto,IB8119
+A95825934,González González,Marina,VU6788
+A88372410,García Álvarez,Jose,IB8009
+A48385922,Álamo Pérez,Juana,IB8010
+A87654331,Suárez Suárez,Gonzalo,IB7777
+A47592000,Martínez Freire,María Jesús,PL9384
+A78395453,Rascado Tenorio,Borja,RE8495
+A39458743,Castro Otero,Guillermo,CU9042
+A25983400,Jelmírez Brandín,Antonio,IV3724
